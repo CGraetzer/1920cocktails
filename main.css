@@ -7,9 +7,10 @@ body {
     background-image: url('images/starry-sky-389083_1280.jpg');
     background-position: center;
     background-size: cover;
-    background-repeat: ;   
-/* ===== image doesn't repeat well, can see seam, so went with fuzzy version to cover =====*/
+    background-repeat: ;
 }
+/* ===== image doesn't repeat well, can see seam, so went with fuzzy version to cover =====*/
+
 
 .banner {
     width: 940px;
@@ -57,13 +58,14 @@ body {
 
 a:hover {
     color: white;
-    background-color: #48D3E8;   
+    background-color: #48D3E8;    
 }
-
 /* ========= learn how to make the li that viewer is on look different? ===== */
-.navbar li a:active {
-    background-color: 
-}
+/*.active {
+    color: black;
+    background-color: white;   
+}*/
+
 
 /*-------------------- end Navbar styles --------------------*/
 
