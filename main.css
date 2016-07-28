@@ -86,6 +86,7 @@ a:hover {
     background-color: white;  /* === so body background isn't inherited == */
 }
 
+/* ========= item h2 is only on index page =========== */
 .item h2 {
     font-family: 'Libre Baskerville', serif;
     font-weight: 700;
@@ -100,6 +101,7 @@ a:hover {
     font-weight: 700;
     font-size: 18px;
     color: #0D278F;
+    padding-top: 16px;
 }
 
 .item {
